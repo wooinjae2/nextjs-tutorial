@@ -32,3 +32,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+create-next-app으로 설치하면
+1. 컴파일과 번들링이 자동으로 된다(webpack, babel)
+2. 자동 리프레쉬 기능으로 수정하면 화면에 바로 반영
+3. 서버사이드 렌더링 지원
+4. 스태틱 파일 지원 (/public)경로에 파일 
